@@ -20,7 +20,7 @@
         "name": "xuze lu",
         "given_name": "xuze",
         "family_name": "lu",
-        "picture": "<https://lh6.googleusercontent.com/-pg0aK22eny0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3resmgnqhJgJrdyev5Nsme2wQMKc0w/photo.jpg>",
+        "picture": "https://lh6.googleusercontent.com/-pg0aK22eny0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3resmgnqhJgJrdyev5Nsme2wQMKc0w/photo.jpg",
         "locale": "zh-CN"
     }
 
