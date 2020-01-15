@@ -13,15 +13,15 @@
 
 ## Content Example
 
-> Content: {
-    "id": "112417997111972571448",
-    "email": "luxuze1994@gmail.com",
-    "verified_email": true,
-    "name": "xuze lu",
-    "given_name": "xuze",
-    "family_name": "lu",
-    "picture": "<https://lh6.googleusercontent.com/-pg0aK22eny0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3resmgnqhJgJrdyev5Nsme2wQMKc0w/photo.jpg>",
-    "locale": "zh-CN"
-}
+    Content: {
+        "id": "112417997111972571448",
+        "email": "luxuze1994@gmail.com",
+        "verified_email": true,
+        "name": "xuze lu",
+        "given_name": "xuze",
+        "family_name": "lu",
+        "picture": "<https://lh6.googleusercontent.com/-pg0aK22eny0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3resmgnqhJgJrdyev5Nsme2wQMKc0w/photo.jpg>",
+        "locale": "zh-CN"
+    }
 
 ## [理解OAuth 2.0 - 阮一峰](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
