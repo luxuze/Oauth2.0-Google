@@ -8,11 +8,11 @@ import (
 	"golang.org/x/oauth2"
 )
 
-const htmlIndex = ` <html>
-						<body>
-							<a href="/GoogleLogin">Log in with Google</a>
-						</body>
-					</html> `
+const htmlIndex = `<html>
+			<body>
+				<a href="/GoogleLogin">Log in with Google</a>
+			</body>
+		   </html> `
 
 var googleOauthConfig = &oauth2.Config{
 	ClientID:     "514396512421-5pfh8uqu0vsncffbicaj2v4occ8sg9qk.apps.googleusercontent.com", // your_client_id
